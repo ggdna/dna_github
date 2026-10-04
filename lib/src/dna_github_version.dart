@@ -1,5 +1,5 @@
 // @license
-// Copyright (c) <YOUR_COPYRIGHT_HOLDER>
+// Copyright (c) ggsuite
 //
 // Use of this source code is governed by terms that can be
 // found in the LICENSE file in the root of this package.
@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_github` package.
-const String dnaTemplateVersion = '0.0.0';
+const String dnaGithubVersion = '0.0.1';
