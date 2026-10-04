@@ -6,14 +6,14 @@ Use of this source code is governed by terms that can be
 found in the LICENSE file in the root of this package.
 -->
 
-# dna_template
+# dna_github
 
-Template for new DNA repos. Copy it, rename it, and replace the
-placeholders.
+DNA layer: GitHub repository setup (branch rules, PR settings, quick check
+workflow).
 
 ## Create a new DNA repo from this template
 
-1. Copy the repo and replace `dna_template` / `dna-template` /
+1. Copy the repo and replace `dna_github` / `dna-github` /
    `dnaTemplateVersion` in `pubspec.yaml`, `package.json`, `README.md`,
    `example/`, `lib/src/` and `test/` (including the file names)
 2. Set `dnaCopyrightHolder` and `dnaCompany` in `dna/_vars.json`
@@ -46,8 +46,8 @@ other layers by the consuming repo.
 Declare it as a dev-dependency and initialize once:
 
 ```bash
-pnpm add -D @ggdna/dna-template   # TypeScript projects
-dart pub add dev:dna_template     # Dart projects
+pnpm add -D @ggdna/dna-github   # TypeScript projects
+dart pub add dev:dna_github     # Dart projects
 helix init
 ```
 

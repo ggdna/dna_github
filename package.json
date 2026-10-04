@@ -1,19 +1,19 @@
 {
-  "name": "@ggdna/dna-template",
+  "name": "@ggdna/dna-github",
   "version": "0.0.0",
-  "description": "DNA layer: shared template for new topics",
+  "description": "DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)",
   "keywords": [
     "dna",
     "helix",
     "conventions",
     "scaffolding"
   ],
-  "homepage": "https://github.com/ggdna/dna_template",
-  "bugs": "https://github.com/ggdna/dna_template/issues",
+  "homepage": "https://github.com/ggdna/dna_github",
+  "bugs": "https://github.com/ggdna/dna_github/issues",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ggdna/dna_template.git"
+    "url": "git+https://github.com/ggdna/dna_github.git"
   },
   "type": "module",
   "files": [

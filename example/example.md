@@ -19,5 +19,5 @@ git init -b main
 ## Add
 
 ```bash
-gg dna add dna_template
+gg dna add dna_github
 ```

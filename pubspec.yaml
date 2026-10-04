@@ -1,7 +1,7 @@
-name: dna_template
-description: "DNA layer: shared template for new topics"
+name: dna_github
+description: "DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)"
 version: 0.0.0
-repository: https://github.com/ggdna/dna_template.git
+repository: https://github.com/ggdna/dna_github.git
 
 environment:
   sdk: ">=3.13.0 <4.0.0"
