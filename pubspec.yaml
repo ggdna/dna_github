@@ -1,0 +1,12 @@
+name: dna_template
+description: "DNA layer: shared template for new topics"
+version: 0.0.0
+repository: https://github.com/ggdna/dna_template.git
+
+environment:
+  sdk: ">=3.13.0 <4.0.0"
+
+dev_dependencies:
+  helix: ^1.9.0
+  lints: ^6.1.0
+  test: ^1.32.0

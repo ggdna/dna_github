@@ -1,0 +1,41 @@
+{
+  "name": "@ggdna/dna-template",
+  "version": "0.0.0",
+  "description": "DNA layer: shared template for new topics",
+  "keywords": [
+    "dna",
+    "helix",
+    "conventions",
+    "scaffolding"
+  ],
+  "homepage": "https://github.com/ggdna/dna_template",
+  "bugs": "https://github.com/ggdna/dna_template/issues",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggdna/dna_template.git"
+  },
+  "type": "module",
+  "files": [
+    "dna",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test:dart": "dart test",
+    "test": "pnpm run test:dart",
+    "prepublishOnly": "pnpm run test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "prettier": "^3.9.9"
+  }
+}
