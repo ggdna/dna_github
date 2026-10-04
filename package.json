@@ -1,6 +1,6 @@
 {
   "name": "@ggdna/dna-github",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)",
   "keywords": [
     "dna",

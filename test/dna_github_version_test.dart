@@ -18,7 +18,7 @@ import 'package:test/test.dart';
 void main() {
   group('dna_github_version.dart', () {
     test('matches the version in pubspec.yaml', () {
-      const declaration = 'const String dnaTemplateVersion = ';
+      const declaration = 'const String dnaGithubVersion = ';
       final match = RegExp(
         r'^version:\s*(\S+)\s*$',
         multiLine: true,
