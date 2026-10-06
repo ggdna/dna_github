@@ -1,6 +1,6 @@
 name: dna_github
 description: "DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)"
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/ggdna/dna_github.git
 
 environment:
