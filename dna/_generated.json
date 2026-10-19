@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xae24c13573219f91"
+      "hash": "0x1410874c0723c6d9"
     }
   ],
   "claude": {
@@ -27,11 +27,11 @@
   "instances": [
     {
       "path": ".github/workflows/quick_check.yaml",
-      "hash": "0xffa3b2b1513d52cb"
+      "hash": "0x917a63b71b37c2aa"
     },
     {
       "path": "guides/setup-github-guide.md",
-      "hash": "0x8681f11bbfaa0c00"
+      "hash": "0xa9c2f8a55954ece1"
     },
     {
       "path": "scripts/setup-github-repo.js",
