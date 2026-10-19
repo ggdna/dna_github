@@ -1,5 +1,5 @@
 name: dna_github
-description: "DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)"
+description: "Gives a repo the GitHub settings, the branch rules and the quick check workflow that checks every pull request."
 version: 0.1.0
 repository: https://github.com/ggdna/dna_github.git
 
