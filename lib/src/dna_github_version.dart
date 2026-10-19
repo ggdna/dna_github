@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_github` package.
-const String dnaGithubVersion = '0.1.0';
+const String dnaGithubVersion = '0.1.1';
