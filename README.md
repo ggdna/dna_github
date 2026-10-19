@@ -24,7 +24,7 @@ workflow).
 
 ## Guides
 
-- `dna/guides/setup-github-guide.md` — add the layer, merge it into
+- `dna/doc/guides/setup-github-guide.md` — add the layer, merge it into
   `main`, preview the settings with `node scripts/setup-github-repo.js`
   and apply them with `--apply`; requires the
   [GitHub CLI](https://cli.github.com) (`gh auth login`)
