@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xae24c13573219f91"
+      "hash": "0xf541b93b3dc7995d"
     }
   ],
   "claude": {
@@ -30,8 +30,8 @@
       "hash": "0xffa3b2b1513d52cb"
     },
     {
-      "path": "guides/setup-github-guide.md",
-      "hash": "0x8681f11bbfaa0c00"
+      "path": "doc/guides/setup-github-guide.md",
+      "hash": "0x836d4ca942a58b9c"
     },
     {
       "path": "scripts/setup-github-repo.js",
