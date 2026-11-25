@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.12.0",
+      "resolvedVersion": "1.15.2",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,19 +15,23 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xf541b93b3dc7995d"
+      "hash": "0x5d579cf2e57c1869"
     }
   ],
   "claude": {
     "claudeMdInclude": null,
     "claudeMdFromDna": false
   },
-  "baseVersion": "1.12.0",
+  "baseVersion": "1.15.2",
   "baseHash": "0x6883da335b415f9d",
   "instances": [
     {
       "path": ".github/workflows/quick_check.yaml",
       "hash": "0xffa3b2b1513d52cb"
+    },
+    {
+      "path": ".pubignore",
+      "hash": "0xf900118d482a9079"
     },
     {
       "path": "doc/guides/setup-github-guide.md",
