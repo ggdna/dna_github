@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.16.0",
+      "resolvedVersion": "1.18.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x95188a48d02ef1da"
+      "hash": "0x22444a547c485b79"
     }
   ],
   "claude": {
@@ -23,9 +23,10 @@
     "claudeMdFromDna": false,
     "blockHash": null
   },
-  "baseVersion": "1.16.0",
+  "baseVersion": "1.18.0",
   "baseHash": "0x6883da335b415f9d",
   "configHash": "0xb4650cce9f80108f",
+  "gitignoreHash": "0x1b0ee74d5e941279",
   "instances": [
     {
       "path": ".github/workflows/quick_check.yaml",
@@ -33,11 +34,19 @@
     },
     {
       "path": ".pubignore",
-      "hash": "0xde4a91eb33171faf"
+      "hash": "0x66f28ad3887c3e17"
     },
     {
-      "path": "doc/guides/setup-github-guide.md",
+      "path": "doc/de/guides/setup-github-guide.md",
+      "hash": "0xeec2b8d90a1fdcdc"
+    },
+    {
+      "path": "doc/en/guides/setup-github-guide.md",
       "hash": "0x836d4ca942a58b9c"
+    },
+    {
+      "path": "doc/fa/guides/setup-github-guide.md",
+      "hash": "0xff87e8351853abc8"
     },
     {
       "path": "scripts/setup-github-repo.js",
